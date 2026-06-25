@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Natural Procreative Hygiene",
+  "alternateName": "NPH",
+  "description": "A conceptual framework addressing the biological and ethical principles governing natural human procreative hygiene.",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "NPH Framework",
+    "url": "https://github.com/Plingtz/nph-framework"
+  },
+  "code": "NPH",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Physiological Integrity",
+      "value": "Recognition of the human reproductive system as a coherent biological structure with inherent hygienic requirements."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Ethical Coherence",
+      "value": "Alignment of procreative practices with ethical frameworks derived from natural function rather than circumvention of it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Preventive Orientation",
+      "value": "Emphasis on prophylactic understanding — hygiene as prevention rather than remediation."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Intergenerational Responsibility",
+      "value": "Consideration of procreative hygiene as a duty extending across generations."
+    }
+  ],
+  "sameAs": "https://www.wikidata.org/wiki/Q140352814",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+}
